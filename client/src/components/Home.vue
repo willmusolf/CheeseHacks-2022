@@ -82,7 +82,7 @@ export default {
 
       this.loading = true;
 
-      await fetch("http://{YOUR_IP_HERE}/update", {
+      await fetch("http://{YOUR_IP_HERE}:5000/update", {
         method: 'POST',
         body: formData
       }).then(response => {
