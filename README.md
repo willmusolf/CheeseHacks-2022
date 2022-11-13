@@ -1,4 +1,4 @@
-# degreebuddy
+# degreemate
 
 A single-page web application that provides major recommendations for students at the University of Wisconsin-Madison based on their previously completed courses. An (unofficial) UW transcript is required!
 
