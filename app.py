@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, Response
 from flask_cors import CORS
 from flask import request
+from time import sleep
 
 from generate_degrees import generate_degrees
 from parse_transcript import parse_transcript
@@ -25,6 +26,8 @@ def update():
 
 @app.route('/upload', methods=['POST'])
 def upload():
+    sleep(3)  # just to enjoy the loading screen :D
+    
     file = request.files['file']
 
     if 'pdf' not in file.filename:
