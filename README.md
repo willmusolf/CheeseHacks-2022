@@ -4,7 +4,7 @@ A single-page web application that provides major recommendations for students a
 
 Created by Andrew Logan, Will Musolf, Cooper Nasiedlak, and David Viggiano. Developed in 24 hours for CheeseHacks 2022, a University of Wisconsin-Madison hackathon. Special thanks to WebDev UW and the Google Developer Student Club for putting on a great event!
 
-NOTE: Running the backend from MacOS has proved troublesome with CORS permissions. Recommended that it is run from a Windows machine.
+> Running the backend from MacOS has proved troublesome with CORS permissions. Recommended that it is run from a Windows machine.
 
 # Getting Started
 
