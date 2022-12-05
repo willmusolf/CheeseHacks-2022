@@ -30,7 +30,7 @@ def upload():
     
     file = request.files['file']
 
-    if 'pdf' not in file.filename:
+    if '.pdf' != file.filename[-4:]:
         return jsonify({'status': 'not a pdf'})
 
     file.save('transcript.pdf')
