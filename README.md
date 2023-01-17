@@ -12,7 +12,7 @@ Set up the project by installing required packages.
 
 
 ```
-pip install flask Flask-Cors==3.0.10 bs4 requests PyPDF2
+pip install flask Flask-Cors==3.0.10 bs4 requests PyPDF2 # TODO utilize a requirements.txt file
 cd client
 npm install
 ```
