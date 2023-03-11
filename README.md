@@ -12,16 +12,17 @@ Set up the project by installing required packages.
 
 
 ```
-pip install flask Flask-Cors==3.0.10 bs4 requests PyPDF2 # TODO utilize a requirements.txt file
+pip install -r requirements.txt
 cd client
 npm install
 ```
 
 Navigate to <code>Home.vue</code> and set your IP in both of the fetch calls.
 
-Start a new terminal instance in the root directory (this one) and start the backend.
+Navigate back to the root directory and start the backend.
 
 ```
+cd ..
 flask run --host=0.0.0.0
 ```
 
