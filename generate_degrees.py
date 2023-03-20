@@ -6,7 +6,7 @@ def generate_degrees(courses_taken):
     """
     Unfortunately, we were unable to implement a fully functional algorithm given our limited timeframe.
     This makeshift function provides a set of degrees for which the user has completed the most courses,
-    though particular categories and prerequisites are not fully accounted for.
+    though category overlaps and prerequisites are not fully accounted for.
     """
     with open('data/majors.json') as f:
         majors = json.load(f)
