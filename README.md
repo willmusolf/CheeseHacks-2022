@@ -6,7 +6,7 @@ Created by Andrew Logan, Will Musolf, Cooper Nasiedlak, and David Viggiano. Deve
 
 > Running the backend from MacOS has proved troublesome with CORS permissions. Recommended that it is run from a Windows machine.
 
-# Getting Started
+# Usage
 
 Set up the project by installing required packages.
 
