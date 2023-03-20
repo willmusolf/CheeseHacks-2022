@@ -17,7 +17,7 @@ cd client
 npm install
 ```
 
-Navigate to <code>Home.vue</code> and set your IP in both of the fetch calls.
+Navigate to <code>Home.vue</code> and set your IP in both of the fetch calls using a text editor.
 
 Navigate back to the root directory and start the backend.
 
