@@ -1,6 +1,6 @@
 # degreemate
 
-A single-page web application that provides major recommendations for students at the University of Wisconsin-Madison based on their previously completed courses. An (unofficial) UW transcript is required.
+A single-page web application that provides major recommendations for students at the University of Wisconsin-Madison based on their previously completed courses with an imperfect but functional algorithm. An (unofficial) UW transcript is required.
 
 Created by Andrew Logan, Will Musolf, Cooper Nasiedlak, and David Viggiano. Developed in 24 hours for CheeseHacks 2022, a University of Wisconsin-Madison hackathon. Special thanks to WebDev UW and the Google Developer Student Club for putting on a great event.
 
